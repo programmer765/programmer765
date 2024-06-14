@@ -1,5 +1,5 @@
 ## Hi there 👋, My name is Aviprit Shah and I love to explore new Technolgies.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7157F7&center=true&random=false&width=435&lines=Software+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%2C+Contributor++%F0%9F%9A%80%2C+Learner+%F0%9F%A7%A0%2C++Collaborator+%F0%9F%91%A5%2C+Tech+Enthusiast++%F0%9F%92%BB;Currently+working+as+backend+developer+in+a+startup+and+working+on+some+new+ideas+%F0%9F%9A%80%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7157F7&random=false&width=500&lines=Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Contributor++%F0%9F%9A%80+Learner+%F0%9F%A7%A0+;~1+yr+of+experience+as+a+Software+Developer;Currently+exploring+web3+%E2%9A%9B)](https://git.io/typing-svg)
 <!--
 **programmer765/programmer765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
